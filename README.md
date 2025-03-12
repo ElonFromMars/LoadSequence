@@ -4,6 +4,7 @@ Dependencies: UniTask, Unity
 
 Example:
 
+```csharp
 loadSequence.
   Sequential<InitializeNetConnectionServiceStep>().
   Parallel<DefaultAddressablesPreloadSequenceStep>().
@@ -24,6 +25,6 @@ loadSequence.
   Sequential<StartGameplaySceneStep>().
   Sequential<UnloadPreLaunchSceneSequenceStep>().
   End();
-
+```
 
 There is also the possibility of adding an honest loading bar that receives progress information from the steps.
