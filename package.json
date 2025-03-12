@@ -10,7 +10,7 @@
     "Async",
     "Performance",
     "LoadingProgressTracking",
-    "ProgressBar",
+    "ProgressBar"
   ],
   "hideInEditor": false,
   "documentationUrl": "https://github.com/ElonFromMars/LoadSequence",
