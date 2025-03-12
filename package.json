@@ -1,0 +1,24 @@
+{
+  "name": "gameflow.loadsequence",
+  "displayName": "LoadSequence",
+  "version": "0.0.1",
+  "unity": "2020.1",
+  "description": "Load sequence allows you to organize the loading stage and transition between Unity project states.",
+  "type": "library",
+  "keywords": [
+    "Loading",
+    "Async",
+    "Performance",
+    "LoadingProgressTracking",
+    "ProgressBar",
+  ],
+  "hideInEditor": false,
+  "documentationUrl": "https://github.com/ElonFromMars/LoadSequence",
+  "licensesUrl": "https://github.com/ElonFromMars/LoadSequence/blob/master/LICENSE.md",
+  "repository": "https://github.com/ElonFromMars/LoadSequence",
+  "author": {
+    "name": "Daniel Shulgin",
+    "email": "danielshulgin@gmail.com",
+    "url": "https://github.com/ElonFromMars/LoadSequence"
+  }
+}
